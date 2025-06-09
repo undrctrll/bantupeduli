@@ -43,7 +43,6 @@ Aplikasi ini menampilkan daftar kampanye donasi, informasi panti asuhan, artikel
 - **MySQL / MariaDB**
 - **Bootstrap 5** untuk tampilan frontend
 - **Blade** sebagai template engine Laravel
-- **Laravel Breeze / Jetstream** untuk sistem autentikasi (opsional)
 
 ---
 
@@ -52,5 +51,5 @@ Aplikasi ini menampilkan daftar kampanye donasi, informasi panti asuhan, artikel
 1. **Clone Repository**
 
 ```bash
-git clone https://github.com/namakamu/laravel-donasi-panti.git
+git clone https://github.com/undrctrll/laravel-donasi-panti.git
 cd laravel-donasi-panti
